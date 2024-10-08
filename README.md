@@ -1,6 +1,8 @@
 # Digit-Recognizer
 [![Kaggle](https://img.shields.io/badge/kaggle-competitions-blue)](https://kaggle.com) 
 [![PyTorch](https://img.shields.io/badge/PyTorch-latest-red?logo=pytorch)](https://pytorch.org)
+
+
 This project implements a Convolutional Neural Network (CNN) to classify handwritten digits (0-9) using the MNIST dataset. The model is built using PyTorch and achieves high accuracy on the MNIST test set.
 
 ---
