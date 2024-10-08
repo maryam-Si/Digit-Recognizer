@@ -50,16 +50,6 @@ The model is based on a simple CNN architecture inspired by **LeNet-5**:
 - **Epochs:** 5
 
 ---
-
-## How to Run the Project
-
-### 1. **Install Dependencies**
-Ensure you have the required Python packages:
-```bash
-pip install torch torchvision matplotlib seaborn
-
----
-
 ## Results
 
 The Convolutional Neural Network (CNN) trained on the MNIST dataset achieves the following results:
@@ -78,5 +68,17 @@ Below are the references for the tools, libraries, and datasets used in this pro
 - [Torchvision MNIST Dataset](https://pytorch.org/vision/stable/datasets.html#mnist) – The MNIST dataset used in the project, provided by PyTorch's `torchvision` package.
 - [LeNet-5 Paper](http://yann.lecun.com/exdb/lenet/) – The original paper describing the LeNet-5 architecture, used as inspiration for the CNN model in this project.
 - [Kaggle: Digit Recognizer](https://www.kaggle.com/c/digit-recognizer/data) – Kaggle's digit recognizer competition using the MNIST dataset.
+
+
+## How to Run the Project
+
+### 1. **Install Dependencies**
+Ensure you have the required Python packages:
+```bash
+pip install torch torchvision matplotlib seaborn
+
+---
+
+
 
 
