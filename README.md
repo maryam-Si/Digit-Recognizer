@@ -57,7 +57,6 @@ The Convolutional Neural Network (CNN) trained on the MNIST dataset achieves the
 - **Training Accuracy:** ~99.9%
 - **Validation Accuracy:** ~98.7%
 
-These results are consistent with the state-of-the-art performance on the MNIST dataset, demonstrating that the model generalizes well to unseen handwritten digits.
 ---
 
 ## References
@@ -76,9 +75,3 @@ Below are the references for the tools, libraries, and datasets used in this pro
 Ensure you have the required Python packages:
 ```bash
 pip install torch torchvision matplotlib seaborn
-
----
-
-
-
-
